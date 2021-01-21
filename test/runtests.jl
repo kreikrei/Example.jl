@@ -2,5 +2,6 @@ using Example
 using Test
 
 @testset "Example.jl" begin
-    # Write your tests here.
+    @test my_f(2,1) == 5
+    @test my_f(-1,-1) == 2
 end
