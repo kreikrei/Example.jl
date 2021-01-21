@@ -9,5 +9,5 @@ end
 
 @testset "Derivatives" begin
     @test d_my_f(2,1) == 4
-    @test d_my_f(-2,1) == -3
+    @test d_my_f(-2,1) == -4
 end
