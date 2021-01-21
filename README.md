@@ -5,4 +5,4 @@
 [![Coverage](https://codecov.io/gh/kreikrei/Example.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/kreikrei/Example.jl)
 [![Coverage](https://coveralls.io/repos/github/kreikrei/Example.jl/badge.svg?branch=master)](https://coveralls.io/github/kreikrei/Example.jl?branch=master)
 
-This is an example repository for function 'my_f' and its derivatives.
+This is an example repository for function `my_f` and its derivatives.
